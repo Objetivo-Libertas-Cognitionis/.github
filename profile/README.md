@@ -1,11 +1,8 @@
 # Objetivo Libertas Cognitionis
-
 We are an organization dedicated to creating open-source educational content. We strive to create innovative content, thinking about what we want as student, we make it and we share it with the rest of the world.
 We do all this with dedication and without asking for anything in return.
 
 ## Our Mission
-
-We work every day to ensure that the most vulnerable people have access to education.  
 We strongly believe that unrestricted access to knowledge should be a fundamental human right.
 
 ## Projects
