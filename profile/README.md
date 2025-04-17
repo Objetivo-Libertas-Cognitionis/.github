@@ -16,12 +16,12 @@ We strongly believe that unrestricted access to knowledge should be a fundamenta
 We’d love to have you on board!  
 Whether you're a developer, educator, translator, designer, or just someone eager to help, you can get started by:
 
-To join to the group you have to contact me [lucasvarelacorrea@gmail.com]
+To join to the group you have to contact me lucasvarelacorrea@gmail.com
 
 ## Code of Conduct
 
 We are committed to a community built on respect, inclusion, and collaboration.  
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+Please read our [Code of Conduct](https://github.com/Objetivo-Libertas-Cognitionis/.github/blob/main/CODE_OF_CONDUCT.md) before contributing.
 
 ## Our Social Networks
 * [Github](https://github.com/Objetivo-Libertas-Cognitionis)
